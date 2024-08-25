@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 loans:
-  message: "Welcome to NavyT accounts related prod APIs "
+  message: "Welcome to NavyT accounts related webhook APIs "
   contactDetails:
     name: "TRUONG THANH AN"
     email: "an.truongthanh@trany.com"
