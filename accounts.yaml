@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NavyT accounts related default APIs "
+  message: "Welcome to NavyT accounts related local APIs "
   contactDetails:
     name: "Tran Y Van - Developer"
     email: "van@trany.com"
